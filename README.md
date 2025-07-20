@@ -76,6 +76,10 @@ This Power BI project presents a clear **Product Category Insights Dashboard** a
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf4be3b5-370d-4dfc-a93b-29177553b5fd" />
 
+![Overview](dashboard/screenshot139.png)
+![Charts](dashboard/screenshot138png)
+![Trends](dashboard/screenshot140.png)
+
 
 ## 📎 **Dataset Credit**
 
