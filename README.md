@@ -83,6 +83,12 @@ This Power BI project presents a clear **Product Category Insights Dashboard** a
 
 ---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## 🚀 **Contact**
 
 **Meghana Dargula**  
