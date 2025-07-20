@@ -86,5 +86,6 @@ This Power BI project presents a clear **Product Category Insights Dashboard** a
 ## 🚀 **Contact**
 
 **Meghana Dargula**  
+linkedin - https://www.linkedin.com/in/meghana-dargula-60919325a/
 ---
 
