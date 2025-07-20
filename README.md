@@ -60,6 +60,8 @@ This Power BI project presents a clear **Product Category Insights Dashboard** a
 2. Open with **Power BI Desktop**.
 3. Use the slicers to filter by State, Category, or Date.
 4. Explore interactive visuals to get actionable insights.
+5.  Click on visuals to see tooltips.
+6. Use any slicers or filters (if added) to drill down by state or category.
 
 ---
 
